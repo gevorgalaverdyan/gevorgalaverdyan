@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+My name is Gevorg Alaverdyan and I'm a Software Engineering student from Montreal, Canada. 
+Here's some info about me!
+
+⚡ Work experience: <br>
+- **Software Developer intern at Genetec** - Full-stack development on the Observability team. [Montreal, Quebec. Fall 2022]
+- **General Office Clerk at Saint Gregory Armenian Cathedral** - Developed and maintained the Church’s new website. [Montreal, Quebec. 2019-2021]
+
+🌱 Interests:
+- Web development.
+- Software development.
+- Mathematics
+
+💬 Reach me by LinkedIn! www.linkedin.com/in/matthewdukepan
+
+📫 Visit my website: https://gevorgalaverdyan.github.io/mywebsite
+
+
 <!--
 **gevorgalaverdyan/gevorgalaverdyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
