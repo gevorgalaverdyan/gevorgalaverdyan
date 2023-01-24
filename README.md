@@ -16,7 +16,7 @@ Here's some info about me!
 
 📫 Visit my website: https://gevorgalaverdyan.github.io/mywebsite
 
-👯 LeetCode: https://leetcode.com/gevorgalaverdyanmail/
+👯 LeetCode: https://leetcode.com/gevorgalaverdyan/
 
 <!--
 **gevorgalaverdyan/gevorgalaverdyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
