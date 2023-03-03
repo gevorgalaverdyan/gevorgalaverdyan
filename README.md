@@ -12,7 +12,7 @@ Here's some info about me!
 - Software development.
 - Mathematics
 
-💬 Reach me by LinkedIn! https://www.linkedin.com/in/gevorg-alaverdyan-9555411a0
+💬 Reach me by LinkedIn! https://www.linkedin.com/in/gevorgalaverdyan/
 
 📫 Visit my website: https://gevorgalaverdyan.github.io/mywebsite
 
