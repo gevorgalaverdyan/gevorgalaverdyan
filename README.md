@@ -4,6 +4,7 @@ My name is Gevorg Alaverdyan and I'm a Software Engineering student from Montrea
 Here's some info about me!
 
 ⚡ Work experience: <br>
+- **DevOps intern at Ericsson** [Montreal, QC. Summer 2024 - May 2025]
 - **Full-Stack .Net Developer intern at iBwave** [Montreal, QC. Summer 2023]
 - **Software Developer intern at Genetec** - Full-stack development on the Observability team. [Montreal, Quebec. Fall 2022]
 - **General Office Clerk at Saint Gregory Armenian Cathedral** - Developed and maintained the Church’s new website. [Montreal, Quebec. 2019-2021]
